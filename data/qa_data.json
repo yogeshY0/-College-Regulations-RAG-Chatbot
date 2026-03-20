@@ -1,0 +1,17 @@
+[
+  {"id": 1, "question": "What is the minimum attendance requirement?", "answer": "Students must maintain 75% attendance. Below 60% means detention."},
+  {"id": 2, "question": "How do I apply for exam re-evaluation?", "answer": "Apply within 15 days of results. Fee is Rs. 500. Submit Form RE-01."},
+  {"id": 3, "question": "What is the grading system?", "answer": "A=4.0 (90-100%), B+=3.5 (80-89%), B=3.0 (70-79%). Min GPA 2.0 to pass."},
+  {"id": 4, "question": "What is the scholarship GPA requirement?", "answer": "GPA 3.5+ = full scholarship. GPA 3.0-3.49 = 50% scholarship."},
+  {"id": 5, "question": "How do I apply for leave of absence?", "answer": "Submit Form LA-02 with documents. Max one academic year leave allowed."},
+  {"id": 6, "question": "What are the library borrowing rules?", "answer": "Borrow up to 5 books for 14 days. Fine Rs. 5/day for late returns."},
+  {"id": 7, "question": "What are the hostel rules?", "answer": "Return by 9pm weekdays, 10pm weekends. No alcohol or smoking allowed."},
+  {"id": 8, "question": "How do I register for next semester courses?", "answer": "Log in to portal.college.edu.np two weeks before semester ends."},
+  {"id": 9, "question": "How do I submit assignments?", "answer": "Submit via LMS before deadline. Late = -10% per day. Plagiarism > 20% = zero."},
+  {"id": 10, "question": "What are the disciplinary actions for rule violations?", "answer": "Minor: written warning. Serious: suspension 1-2 weeks. Severe: expulsion."},
+  {"id": 11, "question": "How do I get a duplicate marksheet?", "answer": "Apply at Exam Office with Form DM-03. Fee Rs. 300. Takes 5-7 days."},
+  {"id": 12, "question": "What happens if a student fails an exam?", "answer": "Must retake supplementary exam (Rs. 800 fee). Maximum 3 attempts allowed."},
+  {"id": 13, "question": "Are internships mandatory for graduation?", "answer": "Yes. Minimum 6 weeks for technical, 4 weeks for management programs."},
+  {"id": 14, "question": "What extracurricular clubs are available?", "answer": "20+ clubs: Robotics, Debate, Photography, Coding Club, Sports Teams and more."},
+  {"id": 15, "question": "What are the fee payment deadlines?", "answer": "Pay within first 2 weeks of semester. Late fee Rs. 100/day after deadline."}
+]

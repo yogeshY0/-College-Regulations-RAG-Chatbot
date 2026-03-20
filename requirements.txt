@@ -1,0 +1,18 @@
+# RAG Chatbot Dependencies
+# Install with: pip install -r requirements.txt
+
+# Streamlit UI
+streamlit==1.35.0
+
+# Embedding model (downloads from HuggingFace)
+sentence-transformers==2.7.0
+
+# Scientific computing (for cosine similarity)
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# HTTP calls to Anthropic API
+requests==2.31.0
+
+# Data handling
+pandas==2.2.2

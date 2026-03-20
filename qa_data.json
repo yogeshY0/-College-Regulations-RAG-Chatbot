@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "question": "What is the minimum attendance requirement for students?",
+    "answer": "Students must maintain a minimum of 75% attendance in each subject to be eligible for examinations. Students with attendance below 60% will be detained and not allowed to sit for final exams. Medical or other exceptions must be approved by the Dean of Students with supporting documents."
+  },
+  {
+    "id": 2,
+    "question": "How do I apply for an exam re-evaluation or recheck?",
+    "answer": "Students can apply for re-evaluation within 15 days of result publication. The re-evaluation fee is Rs. 500 per subject. Submit Form RE-01 to the Examination Section with payment receipt. Results of re-evaluation are final and can increase or decrease your marks."
+  },
+  {
+    "id": 3,
+    "question": "What is the grading system used in the college?",
+    "answer": "The college follows a GPA grading system: A (90-100%) = 4.0, B+ (80-89%) = 3.5, B (70-79%) = 3.0, C+ (60-69%) = 2.5, C (50-59%) = 2.0, D (40-49%) = 1.5, F (Below 40%) = 0.0. A minimum GPA of 2.0 is required to pass each semester."
+  },
+  {
+    "id": 4,
+    "question": "What is the scholarship policy for meritorious students?",
+    "answer": "Scholarships are available for students with GPA 3.5 or above. Full scholarship covers tuition fees and provides Rs. 5000 per month stipend. Partial scholarship (50%) is awarded to students with GPA 3.0-3.49. Scholarship students must maintain their GPA every semester or risk losing it."
+  },
+  {
+    "id": 5,
+    "question": "How can I apply for a leave of absence from the college?",
+    "answer": "Students may apply for leave of absence for medical, personal, or financial reasons. Submit Form LA-02 with valid documentation (medical certificate, family letter, etc.) to the Academic Office. Leave can be granted for a maximum of one academic year. Students on leave must re-register before the semester begins."
+  },
+  {
+    "id": 6,
+    "question": "What are the library rules and borrowing policies?",
+    "answer": "Students may borrow up to 5 books at a time for a maximum of 14 days. A fine of Rs. 5 per day is charged for late returns. Reference books and journals cannot be taken out of the library. Lost books must be replaced or compensated at current market price plus Rs. 200 penalty."
+  },
+  {
+    "id": 7,
+    "question": "What are the hostel rules and regulations?",
+    "answer": "Hostel students must return by 9 PM on weekdays and 10 PM on weekends. Visitors are only allowed in common rooms from 10 AM to 6 PM. Alcohol, smoking, and drugs are strictly prohibited. Students found violating rules will face disciplinary action and possible expulsion from the hostel."
+  },
+  {
+    "id": 8,
+    "question": "How do I register for next semester courses?",
+    "answer": "Course registration opens two weeks before the semester ends. Log in to the Student Portal at portal.college.edu.np and select your courses. A minimum of 12 credits and maximum of 22 credits per semester is allowed. Academic advisors must approve the course plan before registration is confirmed."
+  },
+  {
+    "id": 9,
+    "question": "What is the procedure for submitting assignments and projects?",
+    "answer": "All assignments must be submitted through the college's LMS (Learning Management System) before the deadline. Late submissions are penalized 10% per day. Plagiarism above 20% similarity will result in a zero grade. Group projects must include a contribution statement signed by all members."
+  },
+  {
+    "id": 10,
+    "question": "What disciplinary actions can be taken for rule violations?",
+    "answer": "Minor violations result in a written warning. Repeated or serious violations can lead to suspension for 1-2 weeks. Severe violations such as academic dishonesty, harassment, or violence may result in expulsion. All disciplinary actions are documented in the student's permanent record."
+  },
+  {
+    "id": 11,
+    "question": "How can I get a duplicate marksheet or transcript?",
+    "answer": "Apply for a duplicate marksheet at the Examination Office with Form DM-03. Fee is Rs. 300 for marksheet and Rs. 500 for official transcript. Processing takes 5-7 working days. Original ID and enrollment number required. Express processing (2 days) available for Rs. 1000 additional fee."
+  },
+  {
+    "id": 12,
+    "question": "What happens if a student fails an exam?",
+    "answer": "Students who fail (grade F) must retake the exam in the next available supplementary examination. A supplementary exam fee of Rs. 800 per subject applies. Students can appear in a maximum of 3 supplementary attempts. Failure in all 3 attempts requires repeating the entire course."
+  },
+  {
+    "id": 13,
+    "question": "Are internships mandatory for graduation?",
+    "answer": "Yes, internships are mandatory for all undergraduate students. A minimum of 6 weeks (for technical programs) or 4 weeks (for management programs) is required. Students must submit an internship report and get it approved by their faculty supervisor. Internship must be from an approved organization list or get prior approval from the department."
+  },
+  {
+    "id": 14,
+    "question": "What extracurricular clubs and activities are available?",
+    "answer": "The college has 20+ registered clubs including Robotics Club, Debate Society, Photography Club, Music Band, Sports Teams, Coding Club, and Cultural Dance Group. Students are encouraged to join at least one club. Inter-college competitions and annual cultural events are organized every academic year."
+  },
+  {
+    "id": 15,
+    "question": "What are the fee payment deadlines and penalty for late payment?",
+    "answer": "Tuition fees must be paid within the first two weeks of each semester. A late fee of Rs. 100 per day is charged after the deadline. Students with outstanding fees exceeding 30 days may be barred from exams and college services. Installment plans can be arranged by contacting the Finance Office with valid reason."
+  }
+]
