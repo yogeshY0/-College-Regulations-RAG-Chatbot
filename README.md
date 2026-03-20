@@ -23,49 +23,9 @@
 
 ---
 
-## 🎬 Demo: How It Works
+## 🎬 Demo= link[https://www.veed.io/view/09f6904d-d125-4e6d-b774-d96a82325f04?source=editor&panel=share]
 
-### Student Workflow (2-Minute Walkthrough)
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  📝 STUDENT TYPES: "How do I apply for a scholarship?"           │
-└──────────────────────────────────────────────────────────────────┘
-                              ⬇️
-┌──────────────────────────────────────────────────────────────────┐
-│  🔍 RETRIEVAL: Find 3 most relevant regulations                  │
-│     (using cosine similarity on 384-D embeddings)                │
-│                                                                  │
-│  ✓ Doc #4: "Scholarship GPA: 3.5+ = full, 3.0-3.49 = 50%"      │
-│  ✓ Doc #3: "Grading system: min GPA 2.0 to pass"                │
-│  ✓ Doc #11: "Exam office processes applications"                │
-│                                                                  │
-│  Scores: [0.85, 0.72, 0.68]                                     │
-└──────────────────────────────────────────────────────────────────┘
-                              ⬇️
-┌──────────────────────────────────────────────────────────────────┐
-│  📚 AUGMENTATION: Build context-rich prompt                      │
-│                                                                  │
-│  "You are an academic advisor. Use ONLY this context to answer" │
-│  + [Retrieved regulations above]                                │
-│  + "Question: How do I apply for a scholarship?"                │
-│  + "Be concise. Cite sources. Admit uncertainty."               │
-└──────────────────────────────────────────────────────────────────┘
-                              ⬇️
-┌──────────────────────────────────────────────────────────────────┐
-│  🤖 GENERATION: Claude Sonnet generates answer                   │
-│                                                                  │
-│  "To qualify for a scholarship at our college, you need:        │
-│                                                                  │
-│   • GPA of 3.5 or higher = Full scholarship                     │
-│   • GPA 3.0-3.49 = 50% scholarship                              │
-│                                                                  │
-│   Contact the exam office and submit Form SC-01.                │
-│                                                                  │
-│   📋 Sources: Document #4 (Scholarship GPA Requirement)         │
-│   📊 Confidence: 0.85"                                           │
-└──────────────────────────────────────────────────────────────────┘
-```
 
 ### Example Q&A from the Chatbot
 
@@ -222,7 +182,6 @@ college-rag-chatbot/
 │   └── embeddings_cache.pkl     # Auto-generated embeddings cache
 │
 ├── requirements.txt             # Python dependencies
-├── OLLAMA_SETUP.md              # Ollama troubleshooting guide
 └── README.md                    # You are here! 📍
 ```
 
@@ -512,13 +471,6 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 ---
 
-## 👨‍💻 Author
-
-**Yogesh** — [@yourhandle](https://github.com/yourhandle)
-
-Built with ❤️ using Retrieval-Augmented Generation, embeddings, and LLMs.
-
----
 
 ## 🙏 Acknowledgments
 
